@@ -28,3 +28,7 @@ Select transaction hash on any page, and easily view it on the most popular Ethe
 
 4. Press "Load unpacked" and select this repository's sub-folders to install both the extensions. <br />
    <img src="https://i.imgur.com/OZEJB5Q.png" />
+
+Chrome:
+Do step 1 and 2 shown above 
+Download, drag and drop eth-address-explorers and eth-txn-explorers folder repsectively to the extension page
