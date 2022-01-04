@@ -30,5 +30,5 @@ Select transaction hash on any page, and easily view it on the most popular Ethe
    <img src="https://i.imgur.com/OZEJB5Q.png" />
 
 Chrome:
-Do step 1 and 2 shown above 
-Download, drag and drop eth-address-explorers and eth-txn-explorers folder repsectively to the extension page
+a. Do step 1 and 2 shown above <br />
+b. Download, drag and drop eth-address-explorers and eth-txn-explorers folder repsectively to the extension page
