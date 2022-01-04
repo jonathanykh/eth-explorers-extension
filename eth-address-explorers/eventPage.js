@@ -1,27 +1,15 @@
 const explorersInfo = {
-  Breadcrumbs: {
-    baseUrl: "https://www.breadcrumbs.app/reports/",
-  },
-  Debank: {
-    baseUrl: "https://debank.com/profile/",
-  },
   Etherscan: {
     baseUrl: "https://etherscan.io/address/",
   },
-  Ethtective: {
-    baseUrl: "https://ethtective.com/address/",
+  BSCScan: {
+    baseUrl: "https://bscscan.com/address/",
   },
-  Nansen: {
-    baseUrl: "https://pro.nansen.ai/wallet-profiler?address=",
+  "FTMScan": {
+    baseUrl: "https://ftmscan.com/address/",
   },
-  OpenSea: {
-    baseUrl: "https://opensea.io/",
-  },
-  Zapper: {
-    baseUrl: "https://zapper.fi/account/",
-  },
-  Zerion: {
-    baseUrl: "https://app.zerion.io/",
+  Snowtrace: {
+    baseUrl: "http://snowtrace.io/address/",
   },
 };
 
