@@ -1,4 +1,4 @@
-# eth-explorers-extension(s)
+# eth/multichain-explorers-extension(s)
 
 This repository contains two folders with two extensions that work for address and transactions respectively.
 
