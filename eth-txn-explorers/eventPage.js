@@ -2,14 +2,14 @@ const explorersInfo = {
   Etherscan: {
     baseUrl: "https://etherscan.io/tx/",
   },
-  Bloxy: {
-    baseUrl: "https://bloxy.info/tx/",
+  BSCScan: {
+    baseUrl: "https://bscscan.com/tx/",
   },
-  "Ethtx.info": {
-    baseUrl: "https://ethtx.info/mainnet/",
+  "FTMScan": {
+    baseUrl: "https://ftmscan.com/tx/",
   },
-  Tenderly: {
-    baseUrl: "https://dashboard.tenderly.co/tx/mainnet/",
+  Snowtrace: {
+    baseUrl: "http://snowtrace.io/tx/",
   },
 };
 
